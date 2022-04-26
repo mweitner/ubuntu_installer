@@ -56,3 +56,6 @@ apt install -y pulseaudio alsa-utils pavucontrol libncurses5-dev libncursesw5-de
 apt install virt-manager qemu vde2 ebtables dnsmasq bridge-utils \
   netcat-openbsd dmidecode
 
+#utilities others
+apt install arp-scan
+
